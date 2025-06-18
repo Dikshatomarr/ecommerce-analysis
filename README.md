@@ -138,26 +138,28 @@ Created an interactive dashboard featuring:
 - Boost campaigns during slow months (February, July) to stabilize revenue
 - Enhance offline channel with personalized promotions, given higher average profit
 
-
-## Dashboard Preview
-
-![image](https://github.com/user-attachments/assets/8878370e-e151-4d4d-b8da-95b7647b4180)
-![image](https://github.com/user-attachments/assets/bbaf9f4a-0e8c-4990-9598-29beb65a288a)
-
-
-https://github.com/user-attachments/assets/a26386cf-300f-489e-92d9-dc96bacd5742
-
-
-
-https://github.com/user-attachments/assets/4324e72e-42fa-4841-b71d-e4590ff7adb0
-
-
-
 ## 📈 Business Impact (What This Analysis Enables)
 
 - Prevented profit leakage by flagging 3 unprofitable discount campaigns
 - Identified high-value customer segments (25–44 yrs in Tier 1 cities) for marketing focus
 - Revealed seasonal demand trends for better inventory planning
 - Recommended bundling strategies to lift profit margins in low-volume categories
+ 
+## Dashboard Preview
+**Page 1:**
+
+![Dashboard_preview](https://github.com/user-attachments/assets/f2288f64-8f85-4f88-bdc1-6137d3448af9)
+
+**Page 2:**
+![Dashboard_preview1](https://github.com/user-attachments/assets/b256f684-8229-4ad4-babf-597ba070522e)
+
+
+**Walkthrough**
+
+https://github.com/user-attachments/assets/4797e124-f7e4-4f94-895e-01ef69b0a8d2
+
+https://github.com/user-attachments/assets/79cd7669-c63e-4f46-a5bc-154e928602b8
+
+
 
 
